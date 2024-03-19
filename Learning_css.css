@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: purple;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.introduction {
+    background-color: pink;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.skills {
+    background-color: rgb(170, 164, 164);
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills li {
+    border: 1px solid #999;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: white; 
+}
+
+footer {
+    background-color: purple;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
